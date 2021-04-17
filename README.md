@@ -11,9 +11,9 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
 #### Reach me on social media
 <div align="center">
 
-<a href="https://www.instagram.com/vvianalucas/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@vvianalucas&style=social&logo=instagram" alt="Instagram Badge"></a>  
-<a href="mailto:lucasviana@usp.br"><img src="https://img.shields.io/static/v1?label=Email&message=lucasviana@usp.br&style=social&logo=gmail" alt="Email Badge"></a>  
-<a href="https://www.linkedin.com/in/lucasvianavilela/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Lucas%20Viana%20Vilela&style=social&logo=linkedin" alt="LinkedIn Badge"></a>  
+<a href="https://www.instagram.com/vvianalucas/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@vvianalucas&style=social&logo=instagram" alt="Instagram Badge"></a> 
+<a href="mailto:lucasviana@usp.br"><img src="https://img.shields.io/static/v1?label=Email&message=lucasviana@usp.br&style=social&logo=gmail" alt="Email Badge"></a> 
+<a href="https://www.linkedin.com/in/lucasvianavilela/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Lucas%20Viana%20Vilela&style=social&logo=linkedin" alt="LinkedIn Badge"></a> 
 <a href="https://open.spotify.com/user/12143554604?si=be1d339b66a148ab/"><img src="https://img.shields.io/static/v1?label=Spotify&message=Lucas%20Viana&style=social&logo=spotify" alt="Spotify Badge"></a>
 
 </div>
