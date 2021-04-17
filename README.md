@@ -15,15 +15,16 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   ![C Badge](https://img.shields.io/badge/ansi%20c-%23f7f7f7.svg?&style=for-the-badge&logo=c&logoColor=%23202020)
   ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java Badge](https://img.shields.io/badge/java-%23DE0000.svg?&style=for-the-badge&logo=java&logoColor=%23f7f7f7)
-  ![JavaScript Badge](https://img.shields.io/badge/javascript-%23292610.svg?&style=for-the-badge&logo=javascript&logoColor=%23FCDC00)
   
   ![HTML Badge](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=%23f7f7f7)
+  ![JavaScript Badge](https://img.shields.io/badge/javascript-%23292610.svg?&style=for-the-badge&logo=javascript&logoColor=%23FCDC00)
+  ![jQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=%23f7f7f7)
+  
   ![Node Badge](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=%23f7f7f7)
   ![React Badge](https://img.shields.io/badge/react.js-%23282C34.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Vue Badge](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883)
   ![Express Badge](https://img.shields.io/badge/express.js-%23FDFDFD.svg?&style=for-the-badge&logo=express&logoColor=%23202020)
-  ![jQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=%23f7f7f7)
   
   ![MySQL Badge](https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=%2300758F)
   ![MongoDB Badge](https://img.shields.io/badge/mongodb-%23202020.svg?&style=for-the-badge&logo=mongodb)
