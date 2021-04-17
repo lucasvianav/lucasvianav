@@ -30,11 +30,12 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   
   ![MySQL Badge](https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=%2300758F)
   ![MongoDB Badge](https://img.shields.io/badge/mongodb-%23202020.svg?&style=for-the-badge&logo=mongodb)
+  ![Git Badge](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![Heroku Badge](https://img.shields.io/badge/heroku-%239E7CC1.svg?&style=for-the-badge&logo=heroku&logoColor=white)
   
   ![VIM Badge](https://img.shields.io/badge/vim-%23007F00.svg?&style=for-the-badge&logo=vim&logoColor=%23BFBFBF)
   ![Neovim Badge](https://img.shields.io/badge/neovim-%230F549D.svg?&style=for-the-badge&logo=neovim)
   ![VSCode Badge](https://img.shields.io/badge/vs%20code-%232C2C32.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
-  ![Git Badge](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
   
 </div>
 
