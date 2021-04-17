@@ -8,7 +8,6 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   - SA-SEL is the Electrical Engeneering's Academic Secretary at EESC - USP, which I was a part of for the 3 years I was an Electronic Engeneering student. It's a group composed by students and focused on representing all of the course's student body before the society and the university and it's many departments.
 - 🌱 I’m currently learning more about VIM and relational databases.
 
-<br>
 
 ### Programming languages and related tools
 <div align="center">
@@ -41,6 +40,19 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
 
 <br>
 
+### Stats
+<div align="center">
+  
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvianav&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasvianav&theme=radical&count_private=true&show_icons=truel&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasvianav&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+<br>
+
 ### Other tools
 <div align="center">
 
@@ -54,19 +66,6 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   
   ![Adobe Photoshop Badge](https://img.shields.io/badge/adobe%20photoshop-%23001E36.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=%2331A8FF)
   ![Adobe Illustrator Badge](https://img.shields.io/badge/adobe%20illustrator-%23330000.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=%23FF9A00)
-
-</div>
-
-<br>
-
-### Stats
-<div align="center">
-  
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvianav&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasvianav&theme=radical&count_private=true&show_icons=truel&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasvianav&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
