@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo), former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Kanye West, etc etc and recently became a VIM and JavaScript enthusiast.
+My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo), former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Mac Miller, etc etc and recently became a VIM and JavaScript enthusiast.
 
 
 - 🔭 I’m currently working on [SA-SEL](https://github.com/sa-sel/)'s institutional website with integrated ecommerce and linktree. 
   - For the website, I'm using React, Express and MySQL;
-  - SA-SEL is the Electrical Engeneering's Academic Secretary at EESC - USP, which I was a part of for the 3 years I was an Electronic Engeneering student. It's a group composed by students and focused on representing all of the course's student body before the society and the university and it's many departments.
+  - SA-SEL is the Electrical Engeneering's Academic Secretary at EESC - USP, which I was a part of for the 3 years I was an Electronic Engeneering student. It's a group composed by students and focused on representing all of the course's student body before the society as well as the university and it's many departments.
 - 🌱 I’m currently learning more about VIM and relational databases.
 
 
