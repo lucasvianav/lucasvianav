@@ -9,7 +9,7 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
 - 🌱 I’m currently learning more about VIM and relational databases.
 
 #### Reach me on social media
-<div align="right">
+<div align="center">
 
 <a href="https://www.instagram.com/vvianalucas/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@vvianalucas&style=social&logo=instagram" alt="Instagram Badge"></a>
 <a href="mailto:lucasviana@usp.br"><img src="https://img.shields.io/static/v1?label=Email&message=lucasviana@usp.br&style=social&logo=gmail" alt="Email Badge"></a>
