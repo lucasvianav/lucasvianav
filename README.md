@@ -32,7 +32,24 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   ![VIM Badge](https://img.shields.io/badge/vim-%23007F00.svg?&style=for-the-badge&logo=vim&logoColor=%23BFBFBF)
   ![Neovim Badge](https://img.shields.io/badge/neovim-%230F549D.svg?&style=for-the-badge&logo=neovim)
   ![VSCode Badge](https://img.shields.io/badge/vs%20code-%232C2C32.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
+  ![Git Badge](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
   
+</div>
+
+#### Other tools
+<div align="center">
+
+  ![Google Sheets Badge](https://img.shields.io/badge/google%20sheets-%2334A853.svg?&style=for-the-badge&logo=google-sheets&logoColor=white)
+  ![MATLAB Badge](https://img.shields.io/badge/matlab-%230076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=%23C05708)
+  ![Microsoft Word Badge](https://img.shields.io/badge/microsoft%20word-%234285F4.svg?&style=for-the-badge&logo=microsoft-word&logoColor=%23f7f7f7)
+  
+  ![Microsoft PowerPoint Badge](https://img.shields.io/badge/microsoft%20powerpoint-%23FBBC04.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=%23f7f7f7)
+  ![LaTeX Badge](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=%23f7f7f7)
+  ![LaTeX Badge](https://img.shields.io/badge/overleaf-%23296B2E.svg?&style=for-the-badge&logo=overleaf&logoColor=%23f7f7f7)
+  
+  ![Adobe Photoshop Badge](https://img.shields.io/badge/adobe%20photoshop-%23001E36.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=%2331A8FF)
+  ![Adobe Illustrator Badge](https://img.shields.io/badge/adobe%20illustrator-%23330000.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=%23FF9A00)
+
 </div>
 
 #### Stats
@@ -49,10 +66,10 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
 #### Reach me on social media
 <div align="center">
 
-<a href="https://www.instagram.com/vvianalucas/"><img src="https://img.shields.io/static/v1?label=Instagram&message=@vvianalucas&style=social&logo=instagram" alt="Instagram Badge"></a> 
-<a href="mailto:lucasviana@usp.br"><img src="https://img.shields.io/static/v1?label=Email&message=lucasviana@usp.br&style=social&logo=gmail" alt="Email Badge"></a> 
-<a href="https://www.linkedin.com/in/lucasvianavilela/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Lucas%20Viana%20Vilela&style=social&logo=linkedin" alt="LinkedIn Badge"></a> 
-<a href="https://open.spotify.com/user/12143554604?si=be1d339b66a148ab/"><img src="https://img.shields.io/static/v1?label=Spotify&message=Lucas%20Viana&style=social&logo=spotify" alt="Spotify Badge"></a>
-<img src="https://img.shields.io/static/v1?label=Discord&message=Lucas%20Viana%230803&style=social&logo=discord" alt="Discord Badge">
+[![Instagram Badge](https://img.shields.io/static/v1?label=Instagram&message=@vvianalucas&style=social&logo=instagram)](https://www.instagram.com/vvianalucas/)
+[![Email Badge](https://img.shields.io/static/v1?label=Email&message=lucasviana@usp.br&style=social&logo=gmail)](mailto:lucasviana@usp.br)
+[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Lucas%20Viana%20Vilela&style=social&logo=linkedin)](https://www.linkedin.com/in/lucasvianavilela/)
+[![Spotify Badge](https://img.shields.io/static/v1?label=Spotify&message=Lucas%20Viana&style=social&logo=spotify)](https://open.spotify.com/user/12143554604?si=be1d339b66a148ab/)
+![Discord Badge](https://img.shields.io/static/v1?label=Discord&message=Lucas%20Viana%230803&style=social&logo=discord)
 
 </div>
