@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo), former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Mac Miller, etc etc and recently became a VIM and JavaScript enthusiast.
+My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo) and former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Mac Miller, etc etc and recently became a VIM and JavaScript enthusiast.
 
 
 - 🔭 I’m currently working on [SA-SEL](https://github.com/sa-sel/)'s institutional website with integrated ecommerce and linktree. 
