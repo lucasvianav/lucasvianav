@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo), former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Kanye West, etc etc and recently became a VIM and JavaScript enthusiast.
 
@@ -8,7 +8,9 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   - SA-SEL is the Electrical Engeneering's Academic Secretary at EESC - USP, which I was a part of for the 3 years I was an Electronic Engeneering student. It's a group composed by students and focused on representing all of the course's student body before the society and the university and it's many departments.
 - 🌱 I’m currently learning more about VIM and relational databases.
 
-#### Programming languages and related tools
+<br>
+
+### Programming languages and related tools
 <div align="center">
   
   ![Python Badge](https://img.shields.io/badge/python-%23295981.svg?&style=for-the-badge&logo=python&logoColor=%23FFE365)
@@ -36,7 +38,9 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   
 </div>
 
-#### Other tools
+<br>
+
+### Other tools
 <div align="center">
 
   ![Google Sheets Badge](https://img.shields.io/badge/google%20sheets-%2334A853.svg?&style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -52,7 +56,9 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
 
 </div>
 
-#### Stats
+<br>
+
+### Stats
 <div align="center">
   
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvianav&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -63,7 +69,9 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
 
 </div>
 
-#### Reach me on social media
+<br>
+
+### Reach me on social media
 <div align="center">
 
 [![Instagram Badge](https://img.shields.io/static/v1?label=Instagram&message=@vvianalucas&style=social&logo=instagram)](https://www.instagram.com/vvianalucas/)
