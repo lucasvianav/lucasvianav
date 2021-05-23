@@ -14,7 +14,7 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   
   ![Python Badge](https://img.shields.io/badge/python-%23295981.svg?&style=for-the-badge&logo=python&logoColor=%23FFE365)
   ![C Badge](https://img.shields.io/badge/ansi%20c-%23f7f7f7.svg?&style=for-the-badge&logo=c&logoColor=%23202020)
-  ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!--   ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
   ![Java Badge](https://img.shields.io/badge/java-%23DE0000.svg?&style=for-the-badge&logo=java&logoColor=%23f7f7f7)
   
   ![HTML Badge](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
