@@ -45,7 +45,7 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvianav&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasvianav&theme=radical&count_private=true&show_icons=truel&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasvianav&theme=radical&count_private=true&show_icons=truel&hide=prs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasvianav&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
