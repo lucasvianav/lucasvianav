@@ -3,7 +3,7 @@
 My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo) and former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Mac Miller, etc etc and recently became a VIM and JavaScript enthusiast.
 
 
-- I’m a Web Development intern at [Tokenlab](https://www.linkedin.com/company/tokenlab/)
+- I’m a Web Development intern at [Tokenlab](https://www.linkedin.com/company/tokenlab/).
 - I’m currently working on [SA-SEL](https://github.com/sa-sel/)'s institutional website with integrated ecommerce and linktree. 
   - For the website, I'm using React, Express and MySQL;
   - SA-SEL is the Electrical Engeneering's Academic Secretary at EESC - USP, which I was a part of for the 3 years I was an Electronic Engeneering student. It's a group composed by students and focused on representing all of the course's student body before the society as well as the university and it's many departments.
@@ -25,10 +25,11 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   
   ![Node Badge](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=%23f7f7f7)
   ![React Badge](https://img.shields.io/badge/react.js-%23282C34.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vue Badge](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883)
+  ![Angular Badge](https://img.shields.io/badge/angular.js-%230F549D.svg?&style=for-the-badge&logo=angular&logoColor=%23FDFDFD)
   ![Express Badge](https://img.shields.io/badge/express.js-%23FDFDFD.svg?&style=for-the-badge&logo=express&logoColor=%23202020)
+  <!--   ![Vue Badge](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883) -->
   
-<!--   ![MySQL Badge](https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=%2300758F) -->
+  ![MySQL Badge](https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=%2300758F)
   ![MongoDB Badge](https://img.shields.io/badge/mongodb-%23202020.svg?&style=for-the-badge&logo=mongodb)
   ![Git Badge](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![Heroku Badge](https://img.shields.io/badge/heroku-%239E7CC1.svg?&style=for-the-badge&logo=heroku&logoColor=white)
