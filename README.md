@@ -3,10 +3,11 @@
 My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP (Institute of Mathematics and Computer Sciences - University of São Paulo) and former undergraduate Electronic Engeneering student at EESC - USP. I love photography, fashion, sneakers, Neil Gaiman's books, technology, dark mode in apps, Mac Miller, etc etc and recently became a VIM and JavaScript enthusiast.
 
 
-- 🔭 I’m currently working on [SA-SEL](https://github.com/sa-sel/)'s institutional website with integrated ecommerce and linktree. 
+- I’m a Web Development intern at [Tokenlab](https://www.linkedin.com/company/tokenlab/)
+- I’m currently working on [SA-SEL](https://github.com/sa-sel/)'s institutional website with integrated ecommerce and linktree. 
   - For the website, I'm using React, Express and MySQL;
   - SA-SEL is the Electrical Engeneering's Academic Secretary at EESC - USP, which I was a part of for the 3 years I was an Electronic Engeneering student. It's a group composed by students and focused on representing all of the course's student body before the society as well as the university and it's many departments.
-- 🌱 I’m currently learning more about VIM and relational databases.
+- I’m currently learning more about VIM, relational databases and AngularJS.
 
 
 ### Programming languages and related tools
@@ -27,7 +28,7 @@ My name is Lucas and I'm an undergraduate Computer Science student at ICMC - USP
   ![Vue Badge](https://img.shields.io/badge/vue.js-%2335495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%2341B883)
   ![Express Badge](https://img.shields.io/badge/express.js-%23FDFDFD.svg?&style=for-the-badge&logo=express&logoColor=%23202020)
   
-  ![MySQL Badge](https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=%2300758F)
+<!--   ![MySQL Badge](https://img.shields.io/badge/mysql-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=%2300758F) -->
   ![MongoDB Badge](https://img.shields.io/badge/mongodb-%23202020.svg?&style=for-the-badge&logo=mongodb)
   ![Git Badge](https://img.shields.io/badge/git-%23F54D27.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![Heroku Badge](https://img.shields.io/badge/heroku-%239E7CC1.svg?&style=for-the-badge&logo=heroku&logoColor=white)
